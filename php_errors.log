@@ -1,0 +1,552 @@
+[08-Feb-2016 19:55:56 UTC] PHP Warning:  include(config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/restaurants/peps pizza.php on line 2
+[08-Feb-2016 19:55:56 UTC] PHP Stack trace:
+[08-Feb-2016 19:55:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:55:56 UTC] PHP Warning:  include(): Failed opening 'config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/restaurants/peps pizza.php on line 2
+[08-Feb-2016 19:55:56 UTC] PHP Stack trace:
+[08-Feb-2016 19:55:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:55:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/restaurants/peps pizza.php on line 19
+[08-Feb-2016 19:55:56 UTC] PHP Stack trace:
+[08-Feb-2016 19:55:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:55:56 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/restaurants/peps pizza.php:19
+[08-Feb-2016 19:55:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/restaurants/peps pizza.php on line 21
+[08-Feb-2016 19:55:56 UTC] PHP Stack trace:
+[08-Feb-2016 19:55:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:55:56 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/peps pizza.php:21
+[08-Feb-2016 19:57:17 UTC] PHP Warning:  include(config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/restaurants/peps pizza.php on line 2
+[08-Feb-2016 19:57:17 UTC] PHP Stack trace:
+[08-Feb-2016 19:57:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:57:17 UTC] PHP Warning:  include(): Failed opening 'config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/restaurants/peps pizza.php on line 2
+[08-Feb-2016 19:57:17 UTC] PHP Stack trace:
+[08-Feb-2016 19:57:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:57:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/restaurants/peps pizza.php on line 19
+[08-Feb-2016 19:57:17 UTC] PHP Stack trace:
+[08-Feb-2016 19:57:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:57:17 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/restaurants/peps pizza.php:19
+[08-Feb-2016 19:57:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/restaurants/peps pizza.php on line 21
+[08-Feb-2016 19:57:17 UTC] PHP Stack trace:
+[08-Feb-2016 19:57:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:57:17 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/peps pizza.php:21
+[08-Feb-2016 19:58:23 UTC] PHP Warning:  include(config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/restaurants/peps pizza.php on line 2
+[08-Feb-2016 19:58:23 UTC] PHP Stack trace:
+[08-Feb-2016 19:58:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:58:23 UTC] PHP Warning:  include(): Failed opening 'config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/restaurants/peps pizza.php on line 2
+[08-Feb-2016 19:58:23 UTC] PHP Stack trace:
+[08-Feb-2016 19:58:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:58:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/restaurants/peps pizza.php on line 19
+[08-Feb-2016 19:58:23 UTC] PHP Stack trace:
+[08-Feb-2016 19:58:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:58:23 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/restaurants/peps pizza.php:19
+[08-Feb-2016 19:58:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/restaurants/peps pizza.php on line 21
+[08-Feb-2016 19:58:23 UTC] PHP Stack trace:
+[08-Feb-2016 19:58:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:58:23 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/peps pizza.php:21
+[08-Feb-2016 19:58:34 UTC] PHP Warning:  include(config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/restaurants/peps pizza.php on line 2
+[08-Feb-2016 19:58:34 UTC] PHP Stack trace:
+[08-Feb-2016 19:58:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:58:34 UTC] PHP Warning:  include(): Failed opening 'config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/restaurants/peps pizza.php on line 2
+[08-Feb-2016 19:58:34 UTC] PHP Stack trace:
+[08-Feb-2016 19:58:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:58:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/restaurants/peps pizza.php on line 19
+[08-Feb-2016 19:58:34 UTC] PHP Stack trace:
+[08-Feb-2016 19:58:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:58:34 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/restaurants/peps pizza.php:19
+[08-Feb-2016 19:58:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/restaurants/peps pizza.php on line 21
+[08-Feb-2016 19:58:34 UTC] PHP Stack trace:
+[08-Feb-2016 19:58:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:58:34 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/peps pizza.php:21
+[08-Feb-2016 19:58:47 UTC] PHP Warning:  include(config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/restaurants/peps pizza.php on line 2
+[08-Feb-2016 19:58:47 UTC] PHP Stack trace:
+[08-Feb-2016 19:58:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:58:47 UTC] PHP Warning:  include(): Failed opening 'config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/restaurants/peps pizza.php on line 2
+[08-Feb-2016 19:58:47 UTC] PHP Stack trace:
+[08-Feb-2016 19:58:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:58:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/restaurants/peps pizza.php on line 19
+[08-Feb-2016 19:58:47 UTC] PHP Stack trace:
+[08-Feb-2016 19:58:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:58:47 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/restaurants/peps pizza.php:19
+[08-Feb-2016 19:58:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/restaurants/peps pizza.php on line 21
+[08-Feb-2016 19:58:47 UTC] PHP Stack trace:
+[08-Feb-2016 19:58:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[08-Feb-2016 19:58:47 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/peps pizza.php:21
+[08-Feb-2016 22:11:54 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/restaurants/peps pizza.php on line 21
+[08-Feb-2016 22:13:29 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/restaurants/peps pizza.php on line 21
+[08-Feb-2016 22:14:07 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/restaurants/peps pizza.php on line 21
+[08-Feb-2016 22:56:35 UTC] PHP Warning:  include(config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/restaurants/Dons Burgers.php on line 2
+[08-Feb-2016 22:56:35 UTC] PHP Stack trace:
+[08-Feb-2016 22:56:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/Dons Burgers.php:0
+[08-Feb-2016 22:56:35 UTC] PHP Warning:  include(): Failed opening 'config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/restaurants/Dons Burgers.php on line 2
+[08-Feb-2016 22:56:35 UTC] PHP Stack trace:
+[08-Feb-2016 22:56:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/Dons Burgers.php:0
+[08-Feb-2016 22:56:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/restaurants/Dons Burgers.php on line 19
+[08-Feb-2016 22:56:35 UTC] PHP Stack trace:
+[08-Feb-2016 22:56:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/Dons Burgers.php:0
+[08-Feb-2016 22:56:35 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/restaurants/Dons Burgers.php:19
+[08-Feb-2016 22:56:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/restaurants/Dons Burgers.php on line 21
+[08-Feb-2016 22:56:35 UTC] PHP Stack trace:
+[08-Feb-2016 22:56:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/Dons Burgers.php:0
+[08-Feb-2016 22:56:35 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/Dons Burgers.php:21
+[08-Feb-2016 23:03:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/restaurants/peps pizza.php on line 97
+[08-Feb-2016 23:03:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/restaurants/peps pizza.php on line 97
+[09-Feb-2016 07:09:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/restaurants/restaurant template.php on line 13
+[09-Feb-2016 07:09:47 UTC] PHP Stack trace:
+[09-Feb-2016 07:09:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[09-Feb-2016 07:42:14 UTC] PHP Warning:  include(config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/restaurants/edit profile.php on line 3
+[09-Feb-2016 07:42:14 UTC] PHP Stack trace:
+[09-Feb-2016 07:42:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 07:42:14 UTC] PHP Warning:  include(): Failed opening 'config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/restaurants/edit profile.php on line 3
+[09-Feb-2016 07:42:14 UTC] PHP Stack trace:
+[09-Feb-2016 07:42:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 07:42:14 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/ubuntu/workspace/restaurants/edit profile.php on line 22
+[09-Feb-2016 07:42:14 UTC] PHP Stack trace:
+[09-Feb-2016 07:42:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 07:42:53 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/ubuntu/workspace/restaurants/edit profile.php on line 22
+[09-Feb-2016 07:42:53 UTC] PHP Stack trace:
+[09-Feb-2016 07:42:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 12:40:06 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/restaurants/edit profile.php on line 41
+[09-Feb-2016 12:40:06 UTC] PHP Stack trace:
+[09-Feb-2016 12:40:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 12:40:14 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/restaurants/edit profile.php on line 41
+[09-Feb-2016 12:40:14 UTC] PHP Stack trace:
+[09-Feb-2016 12:40:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 12:40:58 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/restaurants/edit profile.php on line 41
+[09-Feb-2016 12:40:58 UTC] PHP Stack trace:
+[09-Feb-2016 12:40:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 12:47:17 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/restaurants/edit profile.php on line 49
+[09-Feb-2016 12:47:17 UTC] PHP Stack trace:
+[09-Feb-2016 12:47:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 12:53:51 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/restaurants/edit profile.php on line 49
+[09-Feb-2016 12:53:51 UTC] PHP Stack trace:
+[09-Feb-2016 12:53:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 12:54:12 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/restaurants/edit profile.php on line 41
+[09-Feb-2016 12:54:12 UTC] PHP Stack trace:
+[09-Feb-2016 12:54:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 12:56:48 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/restaurants/edit profile.php on line 41
+[09-Feb-2016 12:56:48 UTC] PHP Stack trace:
+[09-Feb-2016 12:56:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 13:03:08 UTC] PHP Warning:  include(config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/restaurants/updated.php on line 3
+[09-Feb-2016 13:03:08 UTC] PHP Stack trace:
+[09-Feb-2016 13:03:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[09-Feb-2016 13:03:08 UTC] PHP Warning:  include(): Failed opening 'config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/restaurants/updated.php on line 3
+[09-Feb-2016 13:03:08 UTC] PHP Stack trace:
+[09-Feb-2016 13:03:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[09-Feb-2016 16:14:30 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/restaurants/updated.php on line 23
+[09-Feb-2016 16:14:30 UTC] PHP Stack trace:
+[09-Feb-2016 16:14:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[09-Feb-2016 16:16:13 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/restaurants/updated.php on line 23
+[09-Feb-2016 16:16:13 UTC] PHP Stack trace:
+[09-Feb-2016 16:16:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[09-Feb-2016 17:16:11 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/restaurants/updated.php on line 43
+[09-Feb-2016 17:30:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/restaurants/updated.php on line 43
+[09-Feb-2016 19:44:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/restaurants/edit profile.php on line 22
+[09-Feb-2016 19:44:44 UTC] PHP Stack trace:
+[09-Feb-2016 19:44:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 19:44:44 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/restaurants/edit profile.php:22
+[09-Feb-2016 19:44:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/restaurants/edit profile.php on line 24
+[09-Feb-2016 19:44:44 UTC] PHP Stack trace:
+[09-Feb-2016 19:44:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 19:44:44 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/edit profile.php:24
+[09-Feb-2016 19:45:13 UTC] PHP Warning:  include(config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/restaurants/edit profile.php on line 2
+[09-Feb-2016 19:45:13 UTC] PHP Stack trace:
+[09-Feb-2016 19:45:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 19:45:13 UTC] PHP Warning:  include(): Failed opening 'config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/restaurants/edit profile.php on line 2
+[09-Feb-2016 19:45:13 UTC] PHP Stack trace:
+[09-Feb-2016 19:45:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 19:45:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/restaurants/edit profile.php on line 23
+[09-Feb-2016 19:45:13 UTC] PHP Stack trace:
+[09-Feb-2016 19:45:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 19:45:13 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/restaurants/edit profile.php:23
+[09-Feb-2016 19:45:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/restaurants/edit profile.php on line 25
+[09-Feb-2016 19:45:13 UTC] PHP Stack trace:
+[09-Feb-2016 19:45:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[09-Feb-2016 19:45:13 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/edit profile.php:25
+[10-Feb-2016 16:31:18 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ubuntu/workspace/restaurants/updated.php on line 25
+[10-Feb-2016 16:31:18 UTC] PHP Stack trace:
+[10-Feb-2016 16:31:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 16:31:18 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/restaurants/updated.php:25
+[10-Feb-2016 17:56:58 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ubuntu/workspace/restaurants/updated.php on line 27
+[10-Feb-2016 17:56:58 UTC] PHP Stack trace:
+[10-Feb-2016 17:56:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 17:56:58 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/restaurants/updated.php:27
+[10-Feb-2016 17:57:30 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ubuntu/workspace/restaurants/updated.php on line 27
+[10-Feb-2016 17:57:30 UTC] PHP Stack trace:
+[10-Feb-2016 17:57:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 17:57:30 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/restaurants/updated.php:27
+[10-Feb-2016 22:01:51 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ubuntu/workspace/restaurants/updated.php on line 43
+[10-Feb-2016 22:01:51 UTC] PHP Stack trace:
+[10-Feb-2016 22:01:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:01:51 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/restaurants/updated.php:43
+[10-Feb-2016 22:07:13 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/restaurants/updated.php on line 29
+[10-Feb-2016 22:07:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/restaurants/updated.php on line 27
+[10-Feb-2016 22:07:47 UTC] PHP Stack trace:
+[10-Feb-2016 22:07:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:07:47 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/restaurants/updated.php:27
+[10-Feb-2016 22:07:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/restaurants/updated.php on line 28
+[10-Feb-2016 22:07:47 UTC] PHP Stack trace:
+[10-Feb-2016 22:07:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:07:47 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/updated.php:28
+[10-Feb-2016 22:07:47 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ubuntu/workspace/restaurants/updated.php on line 39
+[10-Feb-2016 22:07:47 UTC] PHP Stack trace:
+[10-Feb-2016 22:07:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:07:47 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/restaurants/updated.php:39
+[10-Feb-2016 22:08:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/restaurants/updated.php on line 27
+[10-Feb-2016 22:08:38 UTC] PHP Stack trace:
+[10-Feb-2016 22:08:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:08:38 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/restaurants/updated.php:27
+[10-Feb-2016 22:08:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/restaurants/updated.php on line 28
+[10-Feb-2016 22:08:38 UTC] PHP Stack trace:
+[10-Feb-2016 22:08:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:08:38 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/updated.php:28
+[10-Feb-2016 22:08:38 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ubuntu/workspace/restaurants/updated.php on line 39
+[10-Feb-2016 22:08:38 UTC] PHP Stack trace:
+[10-Feb-2016 22:08:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:08:38 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/restaurants/updated.php:39
+[10-Feb-2016 22:10:19 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/ubuntu/workspace/restaurants/updated.php on line 26
+[10-Feb-2016 22:10:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/restaurants/updated.php on line 27
+[10-Feb-2016 22:10:41 UTC] PHP Stack trace:
+[10-Feb-2016 22:10:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:10:41 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/restaurants/updated.php:27
+[10-Feb-2016 22:10:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/restaurants/updated.php on line 28
+[10-Feb-2016 22:10:41 UTC] PHP Stack trace:
+[10-Feb-2016 22:10:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:10:41 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/updated.php:28
+[10-Feb-2016 22:10:41 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ubuntu/workspace/restaurants/updated.php on line 39
+[10-Feb-2016 22:10:41 UTC] PHP Stack trace:
+[10-Feb-2016 22:10:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:10:41 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/restaurants/updated.php:39
+[10-Feb-2016 22:13:03 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ubuntu/workspace/restaurants/updated.php on line 40
+[10-Feb-2016 22:13:03 UTC] PHP Stack trace:
+[10-Feb-2016 22:13:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:13:03 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/restaurants/updated.php:40
+[10-Feb-2016 22:17:11 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ubuntu/workspace/restaurants/updated.php on line 40
+[10-Feb-2016 22:17:11 UTC] PHP Stack trace:
+[10-Feb-2016 22:17:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:17:11 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/restaurants/updated.php:40
+[10-Feb-2016 22:17:18 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/restaurants/updated2.php on line 32
+[10-Feb-2016 22:18:55 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ubuntu/workspace/restaurants/updated.php on line 40
+[10-Feb-2016 22:18:55 UTC] PHP Stack trace:
+[10-Feb-2016 22:18:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:18:55 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/restaurants/updated.php:40
+[10-Feb-2016 22:19:16 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/restaurants/updated.php on line 40
+[10-Feb-2016 22:19:16 UTC] PHP Stack trace:
+[10-Feb-2016 22:19:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:19:48 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/restaurants/updated.php on line 40
+[10-Feb-2016 22:19:48 UTC] PHP Stack trace:
+[10-Feb-2016 22:19:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:22:04 UTC] PHP Parse error:  syntax error, unexpected 'connection' (T_STRING) in /home/ubuntu/workspace/restaurants/updated.php on line 19
+[10-Feb-2016 22:22:33 UTC] PHP Parse error:  syntax error, unexpected 'connection' (T_STRING) in /home/ubuntu/workspace/restaurants/updated.php on line 19
+[10-Feb-2016 22:25:09 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/restaurants/updated.php on line 20
+[10-Feb-2016 22:25:09 UTC] PHP Stack trace:
+[10-Feb-2016 22:25:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:25:09 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/restaurants/updated.php:20
+[10-Feb-2016 22:33:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/restaurants/updated.php on line 70
+[10-Feb-2016 22:33:55 UTC] PHP Warning:  mysqli::query(): Empty query in /home/ubuntu/workspace/restaurants/updated.php on line 60
+[10-Feb-2016 22:33:55 UTC] PHP Stack trace:
+[10-Feb-2016 22:33:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[10-Feb-2016 22:33:55 UTC] PHP   2. mysqli->query() /home/ubuntu/workspace/restaurants/updated.php:60
+[10-Feb-2016 22:41:44 UTC] PHP Parse error:  syntax error, unexpected 'connection' (T_STRING) in /home/ubuntu/workspace/restaurants/updated.php on line 19
+[11-Feb-2016 08:12:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/restaurants/updated.php on line 78
+[11-Feb-2016 19:52:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/restaurants/updated.php on line 43
+[11-Feb-2016 20:03:40 UTC] PHP Warning:  mysql_connect(): Access denied for user 'shambo'@'localhost' (using password: NO) in /home/ubuntu/workspace/map/phpsqlajax_genxml.php on line 15
+[11-Feb-2016 20:03:40 UTC] PHP Stack trace:
+[11-Feb-2016 20:03:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/map/phpsqlajax_genxml.php:0
+[11-Feb-2016 20:03:40 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/map/phpsqlajax_genxml.php:15
+[11-Feb-2016 21:44:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php on line 18
+[11-Feb-2016 21:44:57 UTC] PHP Stack trace:
+[11-Feb-2016 21:44:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:44:57 UTC] PHP   2. require() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:2
+[11-Feb-2016 21:44:57 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php:18
+[11-Feb-2016 21:44:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php on line 19
+[11-Feb-2016 21:44:57 UTC] PHP Stack trace:
+[11-Feb-2016 21:44:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:44:57 UTC] PHP   2. require() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:2
+[11-Feb-2016 21:44:57 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php:19
+[11-Feb-2016 21:44:57 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home/ubuntu/workspace/maps/phpsqlajax_genxml.php on line 21
+[11-Feb-2016 21:44:57 UTC] PHP Stack trace:
+[11-Feb-2016 21:44:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:44:57 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:21
+[11-Feb-2016 21:45:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php on line 18
+[11-Feb-2016 21:45:47 UTC] PHP Stack trace:
+[11-Feb-2016 21:45:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:45:47 UTC] PHP   2. require() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:2
+[11-Feb-2016 21:45:47 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php:18
+[11-Feb-2016 21:45:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php on line 19
+[11-Feb-2016 21:45:47 UTC] PHP Stack trace:
+[11-Feb-2016 21:45:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:45:47 UTC] PHP   2. require() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:2
+[11-Feb-2016 21:45:47 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php:19
+[11-Feb-2016 21:45:47 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home/ubuntu/workspace/maps/phpsqlajax_genxml.php on line 21
+[11-Feb-2016 21:45:47 UTC] PHP Stack trace:
+[11-Feb-2016 21:45:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:45:47 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:21
+[11-Feb-2016 21:46:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php on line 18
+[11-Feb-2016 21:46:15 UTC] PHP Stack trace:
+[11-Feb-2016 21:46:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:46:15 UTC] PHP   2. require() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:2
+[11-Feb-2016 21:46:15 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php:18
+[11-Feb-2016 21:46:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php on line 19
+[11-Feb-2016 21:46:15 UTC] PHP Stack trace:
+[11-Feb-2016 21:46:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:46:15 UTC] PHP   2. require() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:2
+[11-Feb-2016 21:46:15 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php:19
+[11-Feb-2016 21:46:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/ubuntu/workspace/maps/phpsqlajax_genxml.php on line 54
+[11-Feb-2016 21:46:15 UTC] PHP Stack trace:
+[11-Feb-2016 21:46:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:46:15 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:54
+[11-Feb-2016 21:46:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/maps/phpsqlajax_genxml.php on line 55
+[11-Feb-2016 21:46:15 UTC] PHP Stack trace:
+[11-Feb-2016 21:46:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:46:15 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:55
+[11-Feb-2016 21:46:42 UTC] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/maps/phpsqlajax_genxml.php on line 15
+[11-Feb-2016 21:46:42 UTC] PHP Stack trace:
+[11-Feb-2016 21:46:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:46:42 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:15
+[11-Feb-2016 21:47:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php on line 18
+[11-Feb-2016 21:47:23 UTC] PHP Stack trace:
+[11-Feb-2016 21:47:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php:0
+[11-Feb-2016 21:47:23 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php:18
+[11-Feb-2016 21:47:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php on line 19
+[11-Feb-2016 21:47:23 UTC] PHP Stack trace:
+[11-Feb-2016 21:47:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php:0
+[11-Feb-2016 21:47:23 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php:19
+[11-Feb-2016 21:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php on line 18
+[11-Feb-2016 21:47:29 UTC] PHP Stack trace:
+[11-Feb-2016 21:47:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php:0
+[11-Feb-2016 21:47:29 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php:18
+[11-Feb-2016 21:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php on line 19
+[11-Feb-2016 21:47:29 UTC] PHP Stack trace:
+[11-Feb-2016 21:47:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php:0
+[11-Feb-2016 21:47:29 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php:19
+[11-Feb-2016 21:49:32 UTC] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/maps/phpsqlajax_genxml.php on line 15
+[11-Feb-2016 21:49:32 UTC] PHP Stack trace:
+[11-Feb-2016 21:49:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:49:32 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:15
+[11-Feb-2016 21:50:48 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home/ubuntu/workspace/maps/phpsqlajax_genxml.php on line 18
+[11-Feb-2016 21:50:48 UTC] PHP Stack trace:
+[11-Feb-2016 21:50:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:50:48 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:18
+[11-Feb-2016 21:51:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php on line 18
+[11-Feb-2016 21:51:39 UTC] PHP Stack trace:
+[11-Feb-2016 21:51:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:51:39 UTC] PHP   2. require() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:2
+[11-Feb-2016 21:51:39 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php:18
+[11-Feb-2016 21:51:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php on line 19
+[11-Feb-2016 21:51:39 UTC] PHP Stack trace:
+[11-Feb-2016 21:51:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:51:39 UTC] PHP   2. require() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:2
+[11-Feb-2016 21:51:39 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/maps/phpsqlajax_dbinfo.php:19
+[11-Feb-2016 21:51:39 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home/ubuntu/workspace/maps/phpsqlajax_genxml.php on line 18
+[11-Feb-2016 21:51:39 UTC] PHP Stack trace:
+[11-Feb-2016 21:51:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:51:39 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:18
+[11-Feb-2016 21:52:29 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home/ubuntu/workspace/maps/phpsqlajax_genxml.php on line 24
+[11-Feb-2016 21:52:29 UTC] PHP Stack trace:
+[11-Feb-2016 21:52:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:52:29 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:24
+[11-Feb-2016 21:58:20 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, object given in /home/ubuntu/workspace/maps/phpsqlajax_genxml.php on line 24
+[11-Feb-2016 21:58:20 UTC] PHP Stack trace:
+[11-Feb-2016 21:58:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:0
+[11-Feb-2016 21:58:20 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/maps/phpsqlajax_genxml.php:24
+[12-Feb-2016 11:17:04 UTC] PHP Parse error:  syntax error, unexpected 'hello' (T_STRING) in /home/ubuntu/workspace/restaurants/creater.php on line 4
+[12-Feb-2016 12:27:05 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 27
+[12-Feb-2016 12:27:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 27
+[12-Feb-2016 13:58:14 UTC] PHP Parse error:  syntax error, unexpected 'query' (T_STRING) in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 18
+[12-Feb-2016 14:02:57 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 19
+[12-Feb-2016 14:02:57 UTC] PHP Stack trace:
+[12-Feb-2016 14:02:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/new-restaurant.php:0
+[12-Feb-2016 14:11:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'new user'@'localhost' (using password: YES) in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 35
+[12-Feb-2016 14:11:24 UTC] PHP Stack trace:
+[12-Feb-2016 14:11:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/new-restaurant.php:0
+[12-Feb-2016 14:11:24 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/restaurants/new-restaurant.php:35
+[12-Feb-2016 14:12:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'new user'@'localhost' (using password: YES) in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 35
+[12-Feb-2016 14:12:04 UTC] PHP Stack trace:
+[12-Feb-2016 14:12:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/new-restaurant.php:0
+[12-Feb-2016 14:12:04 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/restaurants/new-restaurant.php:35
+[12-Feb-2016 14:13:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'new user'@'localhost' (using password: YES) in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 35
+[12-Feb-2016 14:13:54 UTC] PHP Stack trace:
+[12-Feb-2016 14:13:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/new-restaurant.php:0
+[12-Feb-2016 14:13:54 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/restaurants/new-restaurant.php:35
+[12-Feb-2016 14:15:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'new user'@'localhost' (using password: YES) in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 35
+[12-Feb-2016 14:15:18 UTC] PHP Stack trace:
+[12-Feb-2016 14:15:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/new-restaurant.php:0
+[12-Feb-2016 14:15:18 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/restaurants/new-restaurant.php:35
+[12-Feb-2016 14:16:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'new user'@'localhost' (using password: YES) in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 35
+[12-Feb-2016 14:16:58 UTC] PHP Stack trace:
+[12-Feb-2016 14:16:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/new-restaurant.php:0
+[12-Feb-2016 14:16:58 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/restaurants/new-restaurant.php:35
+[12-Feb-2016 14:17:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 39
+[12-Feb-2016 14:17:38 UTC] PHP Stack trace:
+[12-Feb-2016 14:17:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/new-restaurant.php:0
+[12-Feb-2016 14:17:38 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/restaurants/new-restaurant.php:39
+[12-Feb-2016 14:17:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 40
+[12-Feb-2016 14:17:38 UTC] PHP Stack trace:
+[12-Feb-2016 14:17:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/new-restaurant.php:0
+[12-Feb-2016 14:17:38 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/new-restaurant.php:40
+[12-Feb-2016 14:18:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 39
+[12-Feb-2016 14:18:07 UTC] PHP Stack trace:
+[12-Feb-2016 14:18:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/new-restaurant.php:0
+[12-Feb-2016 14:18:07 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/restaurants/new-restaurant.php:39
+[12-Feb-2016 14:18:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 40
+[12-Feb-2016 14:18:07 UTC] PHP Stack trace:
+[12-Feb-2016 14:18:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/new-restaurant.php:0
+[12-Feb-2016 14:18:07 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/new-restaurant.php:40
+[12-Feb-2016 14:46:59 UTC] PHP Parse error:  syntax error, unexpected 'https' (T_STRING) in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 58
+[12-Feb-2016 14:47:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 59
+[12-Feb-2016 14:48:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 59
+[12-Feb-2016 14:56:30 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 29
+[12-Feb-2016 16:56:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/restaurants/edit profile.php on line 51
+[12-Feb-2016 16:57:11 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ubuntu/workspace/restaurants/edit profile.php on line 47
+[14-Feb-2016 17:13:43 UTC] PHP Warning:  move_uploaded_file(images/profile-photos/NEWIMAGE.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/restaurants/edit profile.php on line 51
+[14-Feb-2016 17:13:43 UTC] PHP Stack trace:
+[14-Feb-2016 17:13:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[14-Feb-2016 17:13:43 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/restaurants/edit profile.php:51
+[14-Feb-2016 17:13:43 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpn8rwGe' to 'images/profile-photos/NEWIMAGE.jpg' in /home/ubuntu/workspace/restaurants/edit profile.php on line 51
+[14-Feb-2016 17:13:43 UTC] PHP Stack trace:
+[14-Feb-2016 17:13:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[14-Feb-2016 17:13:43 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/restaurants/edit profile.php:51
+[14-Feb-2016 17:18:32 UTC] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/ubuntu/workspace/restaurants/edit profile.php on line 52
+[14-Feb-2016 17:18:32 UTC] PHP Stack trace:
+[14-Feb-2016 17:18:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[14-Feb-2016 17:18:32 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/restaurants/edit profile.php:52
+[14-Feb-2016 17:18:32 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcJUGMB' to '../images/profile-photos/' in /home/ubuntu/workspace/restaurants/edit profile.php on line 52
+[14-Feb-2016 17:18:32 UTC] PHP Stack trace:
+[14-Feb-2016 17:18:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[14-Feb-2016 17:18:32 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/restaurants/edit profile.php:52
+[14-Feb-2016 17:19:22 UTC] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/ubuntu/workspace/restaurants/edit profile.php on line 52
+[14-Feb-2016 17:19:22 UTC] PHP Stack trace:
+[14-Feb-2016 17:19:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[14-Feb-2016 17:19:22 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/restaurants/edit profile.php:52
+[14-Feb-2016 17:19:22 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpuMdm3c' to '../images/profile-photos/' in /home/ubuntu/workspace/restaurants/edit profile.php on line 52
+[14-Feb-2016 17:19:22 UTC] PHP Stack trace:
+[14-Feb-2016 17:19:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[14-Feb-2016 17:19:22 UTC] PHP   2. move_uploaded_file() /home/ubuntu/workspace/restaurants/edit profile.php:52
+[15-Feb-2016 20:29:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/restaurants/edit profile.php on line 25
+[15-Feb-2016 20:29:19 UTC] PHP Stack trace:
+[15-Feb-2016 20:29:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[15-Feb-2016 20:29:19 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/edit profile.php:25
+[15-Feb-2016 20:29:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/restaurants/edit profile.php on line 25
+[15-Feb-2016 20:29:32 UTC] PHP Stack trace:
+[15-Feb-2016 20:29:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[15-Feb-2016 20:29:32 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/edit profile.php:25
+[15-Feb-2016 20:29:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/restaurants/edit profile.php on line 25
+[15-Feb-2016 20:29:53 UTC] PHP Stack trace:
+[15-Feb-2016 20:29:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[15-Feb-2016 20:29:53 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/edit profile.php:25
+[15-Feb-2016 20:32:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/restaurants/edit profile.php on line 25
+[15-Feb-2016 20:32:54 UTC] PHP Stack trace:
+[15-Feb-2016 20:32:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[15-Feb-2016 20:32:54 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/edit profile.php:25
+[15-Feb-2016 20:34:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/restaurants/edit profile.php on line 25
+[15-Feb-2016 20:34:30 UTC] PHP Stack trace:
+[15-Feb-2016 20:34:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[15-Feb-2016 20:34:30 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/edit profile.php:25
+[15-Feb-2016 21:00:29 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/restaurants/edit profile.php on line 88
+[15-Feb-2016 21:00:29 UTC] PHP Stack trace:
+[15-Feb-2016 21:00:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[15-Feb-2016 21:00:40 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/restaurants/edit profile.php on line 88
+[15-Feb-2016 21:00:40 UTC] PHP Stack trace:
+[15-Feb-2016 21:00:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[15-Feb-2016 21:01:47 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/restaurants/edit profile.php on line 88
+[15-Feb-2016 21:01:47 UTC] PHP Stack trace:
+[15-Feb-2016 21:01:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[15-Feb-2016 21:17:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/restaurants/edit profile.php on line 77
+[15-Feb-2016 21:17:05 UTC] PHP Stack trace:
+[15-Feb-2016 21:17:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[15-Feb-2016 21:17:05 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/restaurants/edit profile.php:77
+[15-Feb-2016 21:17:22 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/restaurants/edit profile.php on line 77
+[15-Feb-2016 21:17:22 UTC] PHP Stack trace:
+[15-Feb-2016 21:17:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[15-Feb-2016 21:17:22 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/restaurants/edit profile.php:77
+[16-Feb-2016 17:35:22 UTC] PHP Warning:  mysql_connect(): Access denied for user 'shambo'@'localhost' (using password: NO) in /home/ubuntu/workspace/googlemapapi/phpsqlinfo_addrow.php on line 13
+[16-Feb-2016 17:35:22 UTC] PHP Stack trace:
+[16-Feb-2016 17:35:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/googlemapapi/phpsqlinfo_addrow.php:0
+[16-Feb-2016 17:35:22 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/googlemapapi/phpsqlinfo_addrow.php:13
+[16-Feb-2016 17:36:11 UTC] PHP Warning:  mysql_connect(): Access denied for user 'shambo'@'localhost' (using password: NO) in /home/ubuntu/workspace/googlemapapi/phpsqlajax_genxml.php on line 15
+[16-Feb-2016 17:36:12 UTC] PHP Stack trace:
+[16-Feb-2016 17:36:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/googlemapapi/phpsqlajax_genxml.php:0
+[16-Feb-2016 17:36:12 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/googlemapapi/phpsqlajax_genxml.php:15
+[16-Feb-2016 18:32:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 18
+[16-Feb-2016 18:32:19 UTC] PHP Stack trace:
+[16-Feb-2016 18:32:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/new-restaurant.php:0
+[16-Feb-2016 18:32:19 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/restaurants/new-restaurant.php:18
+[16-Feb-2016 18:34:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 16
+[16-Feb-2016 18:34:00 UTC] PHP Stack trace:
+[16-Feb-2016 18:34:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/new-restaurant.php:0
+[16-Feb-2016 18:34:00 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/restaurants/new-restaurant.php:16
+[17-Feb-2016 20:30:50 UTC] PHP Warning:  include(head.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/restaurants/peps pizza.php on line 7
+[17-Feb-2016 20:30:50 UTC] PHP Stack trace:
+[17-Feb-2016 20:30:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[17-Feb-2016 20:30:50 UTC] PHP Warning:  include(): Failed opening 'head.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/restaurants/peps pizza.php on line 7
+[17-Feb-2016 20:30:50 UTC] PHP Stack trace:
+[17-Feb-2016 20:30:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[17-Feb-2016 20:30:50 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/restaurants/peps pizza.php on line 11
+[17-Feb-2016 20:30:50 UTC] PHP Stack trace:
+[17-Feb-2016 20:30:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[17-Feb-2016 20:30:50 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/restaurants/peps pizza.php on line 11
+[17-Feb-2016 20:30:50 UTC] PHP Stack trace:
+[17-Feb-2016 20:30:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[17-Feb-2016 20:30:50 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/restaurants/peps pizza.php on line 13
+[17-Feb-2016 20:30:50 UTC] PHP Stack trace:
+[17-Feb-2016 20:30:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[17-Feb-2016 20:30:50 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/restaurants/peps pizza.php on line 13
+[17-Feb-2016 20:30:50 UTC] PHP Stack trace:
+[17-Feb-2016 20:30:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[18-Feb-2016 21:06:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'donwhelan'@'localhost' (using password: NO) in /home/ubuntu/workspace/restaurants/new-restaurant.php on line 18
+[18-Feb-2016 21:06:06 UTC] PHP Stack trace:
+[18-Feb-2016 21:06:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/new-restaurant.php:0
+[18-Feb-2016 21:06:06 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/restaurants/new-restaurant.php:18
+[20-Feb-2016 17:35:03 UTC] PHP Warning:  mysql_connect(): Access denied for user 'donwhelan'@'localhost' (using password: NO) in /home/ubuntu/workspace/googlemapapi/phpsqlinfo_addrow.php on line 13
+[20-Feb-2016 17:35:03 UTC] PHP Stack trace:
+[20-Feb-2016 17:35:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/googlemapapi/phpsqlinfo_addrow.php:0
+[20-Feb-2016 17:35:03 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/googlemapapi/phpsqlinfo_addrow.php:13
+[20-Feb-2016 17:35:15 UTC] PHP Warning:  mysql_connect(): Access denied for user 'donwhelan'@'localhost' (using password: NO) in /home/ubuntu/workspace/googlemapapi/phpsqlajax_genxml.php on line 15
+[20-Feb-2016 17:35:15 UTC] PHP Stack trace:
+[20-Feb-2016 17:35:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/googlemapapi/phpsqlajax_genxml.php:0
+[20-Feb-2016 17:35:15 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/googlemapapi/phpsqlajax_genxml.php:15
+[20-Feb-2016 17:36:16 UTC] PHP Warning:  mysql_connect(): Access denied for user 'donwhelan'@'localhost' (using password: NO) in /home/ubuntu/workspace/googlemapapi/phpsqlinfo_addrow.php on line 13
+[20-Feb-2016 17:36:16 UTC] PHP Stack trace:
+[20-Feb-2016 17:36:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/googlemapapi/phpsqlinfo_addrow.php:0
+[20-Feb-2016 17:36:16 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/googlemapapi/phpsqlinfo_addrow.php:13
+[20-Feb-2016 17:36:26 UTC] PHP Warning:  mysql_connect(): Access denied for user 'donwhelan'@'localhost' (using password: NO) in /home/ubuntu/workspace/googlemapapi/phpsqlajax_genxml.php on line 15
+[20-Feb-2016 17:36:26 UTC] PHP Stack trace:
+[20-Feb-2016 17:36:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/googlemapapi/phpsqlajax_genxml.php:0
+[20-Feb-2016 17:36:26 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/googlemapapi/phpsqlajax_genxml.php:15
+[20-Feb-2016 17:36:29 UTC] PHP Warning:  mysql_connect(): Access denied for user 'donwhelan'@'localhost' (using password: NO) in /home/ubuntu/workspace/googlemapapi/phpsqlajax_genxml.php on line 15
+[20-Feb-2016 17:36:29 UTC] PHP Stack trace:
+[20-Feb-2016 17:36:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/googlemapapi/phpsqlajax_genxml.php:0
+[20-Feb-2016 17:36:29 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/googlemapapi/phpsqlajax_genxml.php:15
+[06-Mar-2016 15:51:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/restaurants/edit profile.php on line 56
+[06-Mar-2016 15:51:15 UTC] PHP Stack trace:
+[06-Mar-2016 15:51:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[06-Mar-2016 15:51:15 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/restaurants/edit profile.php:56
+[06-Mar-2016 15:51:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/restaurants/edit profile.php on line 56
+[06-Mar-2016 15:51:55 UTC] PHP Stack trace:
+[06-Mar-2016 15:51:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/edit profile.php:0
+[06-Mar-2016 15:51:55 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/restaurants/edit profile.php:56
+[06-Mar-2016 15:54:26 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/restaurants/updated.php on line 17
+[06-Mar-2016 15:54:26 UTC] PHP Stack trace:
+[06-Mar-2016 15:54:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[06-Mar-2016 15:54:26 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/restaurants/updated.php:17
+[06-Mar-2016 15:54:36 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/restaurants/updated.php on line 17
+[06-Mar-2016 15:54:36 UTC] PHP Stack trace:
+[06-Mar-2016 15:54:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/updated.php:0
+[06-Mar-2016 15:54:36 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/restaurants/updated.php:17
+[06-Mar-2016 18:49:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/restaurants/edit profile.php on line 56
+[06-Mar-2016 22:05:48 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/restaurants/profileheader.php on line 20
+[06-Mar-2016 22:05:48 UTC] PHP Stack trace:
+[06-Mar-2016 22:05:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/Shanes Sambos.php:0
+[06-Mar-2016 23:28:39 UTC] PHP Warning:  include(../googlemapapi/viewMapHeader.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/restaurants/peps pizza.php on line 4
+[06-Mar-2016 23:28:39 UTC] PHP Stack trace:
+[06-Mar-2016 23:28:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[06-Mar-2016 23:28:39 UTC] PHP Warning:  include(): Failed opening '../googlemapapi/viewMapHeader.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/restaurants/peps pizza.php on line 4
+[06-Mar-2016 23:28:39 UTC] PHP Stack trace:
+[06-Mar-2016 23:28:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[07-Mar-2016 00:05:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/ubuntu/workspace/restaurants/restaurant template.php on line 42
+[07-Mar-2016 00:05:19 UTC] PHP Stack trace:
+[07-Mar-2016 00:05:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[07-Mar-2016 00:05:19 UTC] PHP   2. include() /home/ubuntu/workspace/restaurants/peps pizza.php:16
+[07-Mar-2016 00:05:19 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/restaurants/restaurant template.php:42
+[07-Mar-2016 00:05:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/restaurants/restaurant template.php on line 44
+[07-Mar-2016 00:05:19 UTC] PHP Stack trace:
+[07-Mar-2016 00:05:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/restaurants/peps pizza.php:0
+[07-Mar-2016 00:05:19 UTC] PHP   2. include() /home/ubuntu/workspace/restaurants/peps pizza.php:16
+[07-Mar-2016 00:05:19 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/restaurants/restaurant template.php:44

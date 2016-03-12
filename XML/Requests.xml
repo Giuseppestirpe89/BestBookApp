@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+
+<catalog>
+	<restaurant>
+		<name>Peppes Pizza</name> 
+		<location>IFSC</location> 
+		<food>Italian</food> 
+		<address1>1 NCI College Road</address1>
+		<address2>IFSC Square</address2> 
+		<tel>0123456</tel>
+	</restaurant> 
+</catalog>

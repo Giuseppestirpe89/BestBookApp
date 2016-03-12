@@ -1,0 +1,51 @@
+[18-Feb-2016 19:44:35 UTC] PHP Parse error:  syntax error, unexpected 'welcome' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/landing-page/Login/index3.php on line 59
+[18-Feb-2016 19:45:11 UTC] PHP Parse error:  syntax error, unexpected 'restaurants' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/landing-page/Login/index3.php on line 66
+[18-Feb-2016 19:45:12 UTC] PHP Parse error:  syntax error, unexpected 'restaurants' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/landing-page/Login/index3.php on line 66
+[25-Feb-2016 20:43:20 UTC] PHP Warning:  include(config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/landing-page/Login/index-rest.php on line 3
+[25-Feb-2016 20:43:20 UTC] PHP Stack trace:
+[25-Feb-2016 20:43:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/landing-page/Login/index-rest.php:0
+[25-Feb-2016 20:43:20 UTC] PHP Warning:  include(): Failed opening 'config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/landing-page/Login/index-rest.php on line 3
+[25-Feb-2016 20:43:20 UTC] PHP Stack trace:
+[25-Feb-2016 20:43:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/landing-page/Login/index-rest.php:0
+[25-Feb-2016 20:43:46 UTC] PHP Warning:  include(config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/landing-page/Login/index-rest.php on line 5
+[25-Feb-2016 20:43:46 UTC] PHP Stack trace:
+[25-Feb-2016 20:43:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/landing-page/Login/index-rest.php:0
+[25-Feb-2016 20:43:46 UTC] PHP Warning:  include(): Failed opening 'config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/landing-page/Login/index-rest.php on line 5
+[25-Feb-2016 20:43:46 UTC] PHP Stack trace:
+[25-Feb-2016 20:43:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/landing-page/Login/index-rest.php:0
+[25-Feb-2016 20:43:58 UTC] PHP Warning:  include(config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/landing-page/Login/index-rest.php on line 7
+[25-Feb-2016 20:43:58 UTC] PHP Stack trace:
+[25-Feb-2016 20:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/landing-page/Login/index-rest.php:0
+[25-Feb-2016 20:43:58 UTC] PHP Warning:  include(): Failed opening 'config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/landing-page/Login/index-rest.php on line 7
+[25-Feb-2016 20:43:58 UTC] PHP Stack trace:
+[25-Feb-2016 20:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/landing-page/Login/index-rest.php:0
+[25-Feb-2016 20:44:14 UTC] PHP Warning:  include(config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/landing-page/Login/index-rest.php on line 9
+[25-Feb-2016 20:44:14 UTC] PHP Stack trace:
+[25-Feb-2016 20:44:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/landing-page/Login/index-rest.php:0
+[25-Feb-2016 20:44:14 UTC] PHP Warning:  include(): Failed opening 'config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/landing-page/Login/index-rest.php on line 9
+[25-Feb-2016 20:44:14 UTC] PHP Stack trace:
+[25-Feb-2016 20:44:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/landing-page/Login/index-rest.php:0
+[25-Feb-2016 20:45:26 UTC] PHP Warning:  include(config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/landing-page/Login/index-rest.php on line 60
+[25-Feb-2016 20:45:26 UTC] PHP Stack trace:
+[25-Feb-2016 20:45:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/landing-page/Login/index-rest.php:0
+[25-Feb-2016 20:45:26 UTC] PHP Warning:  include(): Failed opening 'config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/landing-page/Login/index-rest.php on line 60
+[25-Feb-2016 20:45:26 UTC] PHP Stack trace:
+[25-Feb-2016 20:45:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/landing-page/Login/index-rest.php:0
+[25-Feb-2016 20:45:51 UTC] PHP Warning:  include(config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/landing-page/Login/index-rest.php on line 60
+[25-Feb-2016 20:45:51 UTC] PHP Stack trace:
+[25-Feb-2016 20:45:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/landing-page/Login/index-rest.php:0
+[25-Feb-2016 20:45:51 UTC] PHP Warning:  include(): Failed opening 'config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/landing-page/Login/index-rest.php on line 60
+[25-Feb-2016 20:45:51 UTC] PHP Stack trace:
+[25-Feb-2016 20:45:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/landing-page/Login/index-rest.php:0
+[25-Feb-2016 20:46:51 UTC] PHP Warning:  include(../config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/landing-page/Login/index-rest.php on line 60
+[25-Feb-2016 20:46:51 UTC] PHP Stack trace:
+[25-Feb-2016 20:46:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/landing-page/Login/index-rest.php:0
+[25-Feb-2016 20:46:51 UTC] PHP Warning:  include(): Failed opening '../config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/landing-page/Login/index-rest.php on line 60
+[25-Feb-2016 20:46:51 UTC] PHP Stack trace:
+[25-Feb-2016 20:46:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/landing-page/Login/index-rest.php:0
+[25-Feb-2016 20:48:05 UTC] PHP Warning:  include(../config2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/landing-page/Login/index-rest.php on line 3
+[25-Feb-2016 20:48:05 UTC] PHP Stack trace:
+[25-Feb-2016 20:48:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/landing-page/Login/index-rest.php:0
+[25-Feb-2016 20:48:05 UTC] PHP Warning:  include(): Failed opening '../config2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/landing-page/Login/index-rest.php on line 3
+[25-Feb-2016 20:48:05 UTC] PHP Stack trace:
+[25-Feb-2016 20:48:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/landing-page/Login/index-rest.php:0
